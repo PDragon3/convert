@@ -10,16 +10,16 @@ The key is always the same.
 - ``pip install pycryptodome``
 ## Usage
 ```
-python3 convert.py # Interactive mode
+python convert.py # Interactive mode
 ```
 ```
-python3 convert.py [mode] [key] [message] # Direct mode
+python convert.py [mode] [key] [message] # Direct mode
 ```
 
 ## Example
 ```bash
-python3 convert.py 1 14071997 'Hello, World!' 
-python3 convert.py 2 14071997 93238cb038636931fcc895e3021bfa5eb0355afdf640717e00446fc2142e456b 
+python convert.py 1 14071997 'Hello, World!' 
+python convert.py 2 14071997 93238cb038636931fcc895e3021bfa5eb0355afdf640717e00446fc2142e456b 
 ```
 # TODO :
 - Update readme
