@@ -25,3 +25,4 @@ python convert.py 2 14071997 93238cb038636931fcc895e3021bfa5eb0355afdf640717e004
 - Update readme
 - Add nickname feature
 - Improve client cli
+- Review and comment PR
